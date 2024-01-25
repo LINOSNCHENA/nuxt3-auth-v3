@@ -25,7 +25,6 @@ npm create sidebase@latest
 ## Republic
 
 https://github.com/sidebase/nuxt-auth
-https://github.com/sidebase/nuxt-auth
 https://github.com/sidebase/nuxt-auth-example
 
 ## End
